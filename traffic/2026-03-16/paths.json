@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 36,
+        "uniques": 21
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 7,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/models",
+        "title": "GitHub - CellProfiling/subcell-embed: Codebase for training the SubCell model...",
+        "count": 4,
+        "uniques": 4
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/configs",
+        "title": "GitHub - CellProfiling/subcell-embed: Codebase for training the SubCell model...",
+        "count": 4,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/data",
+        "title": "GitHub - CellProfiling/subcell-embed: Codebase for training the SubCell model...",
+        "count": 4,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/annotations",
+        "title": "GitHub - CellProfiling/subcell-embed: Codebase for training the SubCell model...",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/traffic",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/annotations/splits/train_antibodies.txt",
+        "title": "subcell-embed/annotations/splits/train_antibodies.txt at main \u00b7 CellProfiling...",
+        "count": 3,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/configs/MAE-cellS-protS-contrast.yaml",
+        "title": "subcell-embed/README.md at main \u00b7 CellProfiling/subcell-embed",
+        "count": 3,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/resources",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 2,
+        "uniques": 2
+    }
+]
