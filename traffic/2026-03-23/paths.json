@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 35,
+        "uniques": 22
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/data",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 8,
+        "uniques": 4
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/data/get_datasets.py",
+        "title": "subcell-embed/data at main \u00b7 CellProfiling/subcell-embed",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/configs",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/configs/MAE-cellS-protS-contrast.yaml",
+        "title": "subcell-embed/README.md at main \u00b7 CellProfiling/subcell-embed",
+        "count": 3,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/main_lightning.py",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/annotations",
+        "title": "subcell-embed/annotations at main \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/annotations/splits",
+        "title": "subcell-embed/annotations at main \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/models",
+        "title": "GitHub - CellProfiling/subcell-embed: Codebase for training the SubCell model...",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/README.md",
+        "title": "subcell-embed/annotations/splits/test_antibodies.txt at main \u00b7 CellProfiling/...",
+        "count": 2,
+        "uniques": 1
+    }
+]
