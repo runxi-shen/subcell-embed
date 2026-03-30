@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 36,
+        "uniques": 22
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/data",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 6,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/configs",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 3,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/data/get_datasets.py",
+        "title": "subcell-embed/data at main \u00b7 CellProfiling/subcell-embed",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/LICENSE",
+        "title": "subcell-embed/LICENSE at main \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/configs/MAE-cellS-protS-contrast.yaml",
+        "title": "subcell-embed/configs/MAE-cellS-protS-contrast.yaml at main \u00b7 CellProfiling/s...",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/resources/arch.png",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/annotations",
+        "title": "subcell-embed/annotations at main \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/traffic",
+        "title": "CellProfiling/subcell-embed: Codebase for training the SubCell models",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/commits",
+        "title": "Commits \u00b7 CellProfiling/subcell-embed",
+        "count": 2,
+        "uniques": 1
+    }
+]
