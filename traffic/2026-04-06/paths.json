@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/CellProfiling/subcell-embed",
+        "title": "Overview",
+        "count": 31,
+        "uniques": 21
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/LICENSE",
+        "title": "/blob/main/LICENSE",
+        "count": 5,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/traffic",
+        "title": "/tree/main/traffic",
+        "count": 3,
+        "uniques": 3
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main",
+        "title": "/tree/main",
+        "count": 3,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/configs/MAE-cellS-protS-contrast.yaml",
+        "title": "/blob/main/configs/MAE-cellS-protS-contrast.yaml",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/configs",
+        "title": "/tree/main/configs",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/models",
+        "title": "/tree/main/models",
+        "count": 2,
+        "uniques": 2
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/tree/main/data",
+        "title": "/tree/main/data",
+        "count": 2,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/README.md",
+        "title": "/blob/main/README.md",
+        "count": 1,
+        "uniques": 1
+    },
+    {
+        "path": "/CellProfiling/subcell-embed/blob/main/annotations/location_group_mapping.tsv",
+        "title": "/blob/main/annotations/location_group_mapping.tsv",
+        "count": 1,
+        "uniques": 1
+    }
+]
